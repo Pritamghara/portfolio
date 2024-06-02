@@ -40,7 +40,7 @@ const Hero = () => {
                 <motion.div
                 variants={fadeIn("right","tween",0.3,1)}
                 className={`${css.experience}`}>
-                <div className="primaryText" >10</div>
+                <div className="primaryText" >2</div>
                 <div className="secondaryText" >
                     <div>
                         Years
